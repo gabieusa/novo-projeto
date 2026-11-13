@@ -1,7 +1,7 @@
-Dashboard Analítico: Locação de Veículos 🚗📊
-Repositório dedicado ao projeto prático de Business Intelligence focado na modelagem de dados e criação de relatórios gerenciais para o setor de locação de veículos.
-📌 Sobre o Projeto
-Este projeto simula um cenário real de negócios onde bases heterogêneas (arquivos Excel e consultas via SQL Server) são tratadas, modeladas e transformadas em um painel executivo para monitoramento de faturamento, consumo de quilometragem e comportamento de clientes.
+Dashboard Analítico: Locação de Veículos 
+
+🚗📊 Repositório dedicado ao projeto prático de Business Intelligence focado na modelagem de dados e criação de relatórios gerenciais para o setor de locação de veículos.
+📌 Sobre o Projeto Este projeto simula um cenário real de negócios onde bases heterogêneas (arquivos Excel e consultas via SQL Server) são tratadas, modeladas e transformadas em um painel executivo para monitoramento de faturamento, consumo de quilometragem e comportamento de clientes.
 
 🛠️ Principais Tecnologias e Habilidades Aplicadas
 Power BI Desktop: Construção de relatórios e painéis interativos.
