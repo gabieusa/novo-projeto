@@ -25,7 +25,9 @@ Feito com dedicação por Gabriela Custódio.
 
 ## 📸 Pré-visualização do Relatório
 
-![Página 1](./LOCACAO%20DE%20VEICULOS_page-0001.jpg)
-![Página 2](./LOCACAO%20DE%20VEICULOS_page-0002.jpg)
-![Página 3](./LOCACAO%20DE%20VEICULOS_page-0003.jpg)
-![Página 4](./LOCACAO%20DE%20VEICULOS_page-0004.jpg)
+<p align="center">
+  <img src="./LOCACAO%20DE%20VEICULOS_page-0001.jpg" width="800" alt="Capa do Dashboard"><br><br>
+  <img src="./LOCACAO%20DE%20VEICULOS_page-0002.jpg" width="800" alt="Dashboard Principal"><br><br>
+  <img src="./LOCACAO%20DE%20VEICULOS_page-0003.jpg" width="800" alt="Tela de Clientes"><br><br>
+  <img src="./LOCACAO%20DE%20VEICULOS_page-0004.jpg" width="800" alt="Tela de Previsão"><br>
+</p>
